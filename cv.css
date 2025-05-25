@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    margin: 2rem;
+    background-image: url("https://png.pngtree.com/thumb_back/fw800/background/20220216/pngtree-shampoo-resume-image_935073.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.titulo h1 {
+    text-align: center;
+font-size: 3rem;
+}
+.datos {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.datos img {
+    margin-right: 100px;
+}
+.estudio{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 2rem;
+}
+.estudio div img{
+    width: 200px;
+    margin-right: 200px;
+}
+.experiencias_lavorales{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 2rem;
+}
+.experiencias_lavorales img {
+    width: 200px;
+    margin-right: 5rem; 
+}
+.img_experiencias {
+    display: flex;
+    align-items: center;
+}
+.habilidades {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 2rem;
+}
+.habilidades img {
+    width: 200px;
+    margin-top: 4rem;
+    margin-right: 200px;
+}
+
+
